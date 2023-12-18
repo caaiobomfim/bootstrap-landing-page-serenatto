@@ -1,4 +1,4 @@
-# Meteora
+# Serenatto
 
 O projeto consiste em uma **landing page** que representa uma página web de um e-commerce de vestuário, criada com **Bootstrap 5** com **HTML** e **CSS**.
 
